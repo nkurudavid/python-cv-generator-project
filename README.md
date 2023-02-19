@@ -1,4 +1,4 @@
-# python-cv-generator-project
+# python cv generator project
 
 The project can be used to generate your cv, and save it as docx file.
 
